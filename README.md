@@ -3,4 +3,4 @@
 <br>
 <h2>Esse foi um projeto que aprendi no curso <a href="https://www.devclub.com.br">Devclub</a></h2>
 <br>
-<img src="https://github.com/mamedio1/Esay-Shopping/blob/main/Img/easy_PC.JPG?raw=true" alt="imagem-shopping" width="600px" /> 
+<img src="https://github.com/mamedio1/Esay-Shopping/blob/main/Img/Easy-shopping.png?raw=true" alt="imagem-shopping" width="700px" /> 
